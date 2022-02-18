@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Software Developer Folio ⚡️ [![GitHub](https://img.shields.io/github/license/saadpasta/developer-portfolio?color=blue)](https://github.com/saadpasta/developerFolio/blob/master/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/saadpasta/developerFolio)](https://github.com/saadpasta/developerFolio/stargazers)  [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors)
 
 ## A clean, beautiful and responsive portfolio template for Developers!
@@ -359,3 +360,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ---
+=======
+# portfoliov2
+This is the repository of my personal site.
+>>>>>>> 887db7ddc979d184f6eb690f08ee759f7ac1a2ec
