@@ -17,7 +17,7 @@ const greeting = {
     "A passionate Software Developer 🚀 having experience in building Web and Mobile applications with .Net Core, Angular, and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/12ljQ0miMzqpwuEkHS13M__PKjOW9R2r7/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -96,6 +96,14 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "firebase",
       fontAwesomeClassname: "fas fa-fire"
+    },
+    {
+      skillName: "git",
+      fontAwesomeClassname: "devicon-git-plain"
+    },
+    {
+      skillName: "jira",
+      fontAwesomeClassname: "devicon-jira-plain"
     }
   ],
   display: true // Set false to hide this section, defaults to true
