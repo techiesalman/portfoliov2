@@ -17,7 +17,7 @@ const greeting = {
     "A passionate Software Developer 🚀 having experience in building Web and Mobile applications with .Net Core, Angular, and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1nY3svuSjiiWc1CYHKzhBMYsrIjvKOpOt/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1noP0SyurGDFJpwT-npP0M15M287QQSOG/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
